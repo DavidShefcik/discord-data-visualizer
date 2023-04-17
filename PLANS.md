@@ -37,3 +37,7 @@ Planning out the data/how it will be displayed
 - How many times logged in for each device
 - How many times logged in for location using IP, show on map
 - Times using mobile vs desktop vs web
+
+## General
+
+- Events per day
