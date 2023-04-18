@@ -1,0 +1,37 @@
+@import "~/styles/colors.scss";
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "Thin";
+  background-color: $background-primary;
+  color: $header-primary;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Normal";
+  src: url("/normal.woff2");
+}
+
+@font-face {
+  font-family: "Medium";
+  src: url("/medium.woff2");
+}
+
+@font-face {
+  font-family: "Bold";
+  src: url("/bold.woff2");
+}
+
+@font-face {
+  font-family: "Thin";
+  src: url("/thin.woff2");
+}
